@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uo+fccWdGuU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASMIT BASNET\\Desktop\\lab2progprar\\MyFSharpApp\\MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASMIT BASNET\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
